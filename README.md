@@ -1,1 +1,1 @@
-# ptp
+# Protocolo de enlace
